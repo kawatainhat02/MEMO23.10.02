@@ -1,0 +1,18 @@
+header {
+    border-bottom:  solid 1px;  
+    padding:  10px;             
+}
+.bg_test {
+    text-align:  center;        
+    color:  #fff;              
+    background-color:  #000;    
+}
+footer {
+    border-top: solid 1px;      
+    padding:  10px;           
+}
+
+main {
+    padding:  20px;            
+    height:  300px;             
+}
